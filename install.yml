@@ -13,6 +13,7 @@
     - ctags
     - reattach-to-user-namespace
     - tmux
+    - s3cmd
     cask_packages:
     - font-inconsolata-for-powerline
     - iterm2
@@ -29,3 +30,6 @@
     - openoffice
     - skitch
     - freemind
+    - virtualbox
+    - vagrant
+    - vlc
