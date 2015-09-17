@@ -14,11 +14,14 @@
     - reattach-to-user-namespace
     - tmux
     - s3cmd
+    - scala
+    - sbt
+    - wget
     cask_packages:
     - font-inconsolata-for-powerline
     - iterm2
     - macvim
-    - 1password
+#   - 1password
     - adobe-reader
     - alfred
     - dropbox
@@ -33,3 +36,7 @@
     - virtualbox
     - vagrant
     - vlc
+    - sts
+    - eclipse-java
+    - kindle
+    - scala-ide
